@@ -16,3 +16,4 @@ six==1.16.0
 textsearch==0.0.24
 threadpoolctl==3.1.0
 tqdm==4.64.1
+-e .
